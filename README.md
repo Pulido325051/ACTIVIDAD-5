@@ -64,3 +64,7 @@ parámetros, métricas y el modelo entrenado.
 **Detalle de la corrida `regresion_logistica`**
 
 ![Detalle de la corrida](evidencias/CAPTURA 04.png)
+
+**Artefactos registrados en la corrida**
+
+![Artefactos](evidencias/05_artefactos.png)
