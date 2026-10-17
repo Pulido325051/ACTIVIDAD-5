@@ -2,3 +2,7 @@ mlruns/
 mlflow.db
 __pycache__/
 cv_results.csv
+cv_results.csv
+*.pkl
+datos/datos_ini.csv
+datos/datos_limp.csv
